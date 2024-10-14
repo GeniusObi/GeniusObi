@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oyewole Faith OluwaDamilare 
+- 👋 Hi, I’m Faith OluwaDamilare Oyewole 
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning reactjs,react-native,typescript,nextjs,mongodb,wordpress
 - 💞️ I’m looking to collaborate on projects related to software development particularly web development
