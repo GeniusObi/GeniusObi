@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Faith Oluwadamilare Oyewole 
-- 👀 I’m interested in Software development
-- 🌱 I’m skilled in  reactjs,typescript,nextjs,wordpress
+- 👋 Hi, I’m Faith Oluwadamilare Oyewole, a frontend engineer based in Lagos, Nigeria
+- 🌱 My techstack include: Reactjs, Typescript, Nextjs
 - 💞️ I’m looking to collaborate on projects related to software development particularly web development
 - 📫 How to reach me: <p>
   <a href="https://www.linkedin.com/in/faith-oyewole-1162a3228/" rel="nofollow noreferrer">
